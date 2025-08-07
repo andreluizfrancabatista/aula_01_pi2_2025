@@ -1,0 +1,22 @@
+{
+  "name": "aula_01_pi2_2025",
+  "version": "1.0.0",
+  "description": "Primeira aula de PI2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreluizfrancabatista/aula_01_pi2_2025.git"
+  },
+  "author": "André Luiz França Batista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreluizfrancabatista/aula_01_pi2_2025/issues"
+  },
+  "homepage": "https://github.com/andreluizfrancabatista/aula_01_pi2_2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
